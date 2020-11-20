@@ -1,0 +1,4 @@
+C:\Users\glebo\source\repos\Structurs\Structurs\obj\Debug\netcoreapp3.1\Structurs.csprojAssemblyReference.cache
+C:\Users\glebo\source\repos\Structurs\Structurs\obj\Debug\netcoreapp3.1\Structurs.AssemblyInfoInputs.cache
+C:\Users\glebo\source\repos\Structurs\Structurs\obj\Debug\netcoreapp3.1\Structurs.AssemblyInfo.cs
+C:\Users\glebo\source\repos\Structurs\Structurs\obj\Debug\netcoreapp3.1\Structurs.csproj.CoreCompileInputs.cache
